@@ -1,4 +1,4 @@
-
+// Cookie topping: Glaze
 public class Glaze extends ToppingDecorator {
 	Cookie cookie;
 	
