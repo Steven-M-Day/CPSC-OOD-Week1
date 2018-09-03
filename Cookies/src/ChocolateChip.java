@@ -1,4 +1,4 @@
-
+// Base cookie type: Chocolate Chip Cookie
 public class ChocolateChip extends Cookie {
 	public ChocolateChip() {
 		description = "Chocolate Chip Cookie";
