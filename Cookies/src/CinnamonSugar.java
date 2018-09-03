@@ -1,4 +1,4 @@
-
+// Cookie topping: Cinnamon and Sugar
 public class CinnamonSugar extends ToppingDecorator{
 	Cookie cookie;
 	
