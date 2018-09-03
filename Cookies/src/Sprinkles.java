@@ -1,4 +1,4 @@
-
+// Cookie topping: Sprinkles
 public class Sprinkles extends ToppingDecorator {
 	Cookie cookie;
 	
