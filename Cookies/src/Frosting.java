@@ -1,4 +1,4 @@
-
+// Cookie topping: Frosting
 public class Frosting extends ToppingDecorator {
 	Cookie cookie;
 	
