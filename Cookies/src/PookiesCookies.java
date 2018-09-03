@@ -2,7 +2,9 @@
 public class PookiesCookies {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Place order at bakery.
+		// Identify base cookie type and any additional cookie toppings.
+		
 		Cookie cookie = new PeanutButter();
 		System.out.println(cookie.getDescription() + " $" + String.format("%,.2f",cookie.cost()));
 		
